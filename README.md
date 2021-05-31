@@ -21,6 +21,9 @@ token from an account can be moved or transferred by a third party account.
 If a Smart Contract implements these methods and events, it can be called an ERC721 Non-Fungible Token Contract and, once deployed, it will be responsible to keep
 track of the created tokens on Ethereum.
 
+## Color-Token-Collectible-NFTs
+This project uses ERC-721 standard on Ethereum Blockchain to demonstarate the functioning of Non-Fungible Tokens using color codes as tokens.
+
 ## Run Instructions
 
 To run the react app: 
@@ -39,7 +42,3 @@ npm start
 -	Solidity   
 -	Web3
 - MetaMask (wallet) 
-
-
-## Color-Token-Collectible-NFTs
-This project uses ERC-721 standard on Ethereum Blockchain to demonstarate the functioning of Non-Fungible Tokens using color codes as tokens.
