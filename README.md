@@ -5,8 +5,7 @@ The digital tokens can be said to be like certificates of ownership for physical
 The value of NFTs largely stems from the idea of scarcity. Collectors of NFTs can own unique digital assets like art, sports highlights, or songs 
 which can be bought and sold on marketplaces.
 
-##ERC-721 Standard
-
+## ERC-721 Standard
 The ERC-721 (Ethereum Request for Comments 721) was proposed by William
 Entriken, Dieter Shirley, Jacob Evans and Nastassia Sachs in 2018 and it is a NonFungible Token Standard that implements an API (Application Program Interface)
 for tokens within Smart Contracts.
