@@ -43,5 +43,6 @@ npm start
 -	Web3
 - MetaMask (wallet) 
 
-![Contract_error](https://user-images.githubusercontent.com/54543768/120376106-19e62f00-c339-11eb-8ae0-b76b7d314f11.png)
+![Contract_error (2)](https://user-images.githubusercontent.com/54543768/120377272-8c0b4380-c33a-11eb-9e72-971f775e10fd.png)
+
 
