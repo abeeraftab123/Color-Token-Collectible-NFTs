@@ -45,4 +45,39 @@ npm start
 
 ![Contract_error (2)](https://user-images.githubusercontent.com/54543768/120377272-8c0b4380-c33a-11eb-9e72-971f775e10fd.png)
 
+## Contributors
+
+<table>
+	<tr align="center">
+    <td>
+      <b>Ishan Bhardwaj</b>
+		<p align="center">
+			<img src = "https://avatars.githubusercontent.com/u/59660334?v=4" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
+		</p>
+			<p align="center">
+				<a href = "https://github.com/IB-14">
+					<img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/>
+				</a>
+				<a href = "hhttps://www.linkedin.com/in/ishan-bhardwaj-b080b21a1/">
+					<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
+				</a>
+			</p>
+		</td>
+		<td>
+      <b>Abeer Aftab</b>
+		<p align="center">
+			<img src = "https://avatars.githubusercontent.com/u/54543768?v=4" width="150" height="150" alt="Your Name Here (Insert Your Image Link In Src">
+		</p>
+			<p align="center">
+				<a href = "https://github.com/abeeraftab123">
+					<img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/>
+				</a>
+				<a href = "https://www.linkedin.com/in/abeer-aftab-00274719a/">
+					<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
+				</a>
+			</p>
+		</td>
+    <td>
+</table>
+
 
