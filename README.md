@@ -77,7 +77,7 @@ npm start
 				</a>
 			</p>
 		</td>
-    <td>
+ 
 </table>
 
 
