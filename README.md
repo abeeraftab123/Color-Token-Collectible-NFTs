@@ -42,3 +42,6 @@ npm start
 -	Solidity   
 -	Web3
 - MetaMask (wallet) 
+
+![Contract_error](https://user-images.githubusercontent.com/54543768/120376106-19e62f00-c339-11eb-8ae0-b76b7d314f11.png)
+
